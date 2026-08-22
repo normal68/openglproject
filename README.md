@@ -1,4 +1,4 @@
-An old OpenGL renderer I made for a school project.
-The source files in server and solution are by me.
+OpenGL renderer.
+The source files for the project are in server and solution.
 
-Feel free to ask me for a video demonstration if needed.
+dll files in .lib/bin/ need to be moved to system32 if you want to run the program.
